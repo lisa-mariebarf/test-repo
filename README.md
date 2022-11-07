@@ -2,5 +2,5 @@
 
 ## smaller headline
 
-Some random text.
-More text.
+Some random text.  
+Some other text.
